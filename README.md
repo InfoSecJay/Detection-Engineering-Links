@@ -1,6 +1,6 @@
 # Detection Engineering Links
 
-## Detection Libraries
+## Popular Detection Libraries
 - [Sigma Rules](https://github.com/SigmaHQ/sigma)
 - [Sigma Search Engine](https://sigmasearchengine.com/)
 - [Splunk Security Content](https://github.com/splunk/security_content)
@@ -9,19 +9,24 @@
 - [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules)
 - [Chronicle Detection Rules](https://github.com/chronicle/detection-rules)
 - [Panther Labs Rules](https://github.com/panther-labs/panther-analysis/tree/master/rules)
-- [Living Off The Living Off The Land](https://lolol.farm/)
+
+## Other Vendor Detection Libraries
+- [LogRhythm Threat Detection](https://docs.logrhythm.com/kbmodules/docs/threat-detection)
+- [Data Dog OOB Rules](https://docs.datadoghq.com/security/default_rules/#all)
 - [Logpoint Alert Rules](https://docs.logpoint.com/docs/alert-rules/en/latest/MITRE.html)
 - [IBM QRadar UBA Rules](https://www.ibm.com/docs/en/qradar-common?topic=app-rules-tuning-uba)
 - [Exabeam Content Library](https://github.com/ExabeamLabs/Content-Doc)
 - [Cortex XDR Analytics Alert Library](https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR-Analytics-Alert-Reference)
 
 ## Detection Lists
+- [Living Off The Living Off The Land](https://lolol.farm/)
 - [PowerShell Dirty Word List](https://gist.github.com/nasbench/50cd0b64bedacabccecc9149c15228da)
 - [Unit 42 - Top Level Domains Cybercrime](https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/)
 - [Ransomware Notes](https://github.com/eshlomo1/Ransomware-NOTE/blob/main/ransomware-extension-list.txt)
 
 ## Data Sources
 - [MITRE ATT&CK Data Sources](https://attack.mitre.org/datasources/)
+- [Open Source Security Events Metadata (OSSEM) Project](https://ossemproject.com/intro.html)
 - [Florian Roth - Auditd Best Practice Configuration](https://github.com/Neo23x0/auditd/blob/master/audit.rules)
 - [NSA - Windows Event Monitoring Guide](https://github.com/nsacyber/Event-Forwarding-Guidance/tree/master/Events)
 - [Cortex XDR Endpoint Data Collection](https://docs-cortex.paloaltonetworks.com/r/Cortex-XSIAM/Cortex-XSIAM-Administrator-Guide/Endpoint-Data-Collection)
@@ -82,6 +87,7 @@
 - [Palo Alto - Network IPS Tuning Guide](https://www.paloaltonetworks.com/blog/2015/09/network-ips-tuning-guide/)
 - [SANS Gold Paper - Detecting Penetration Testers on a Windows Network with Splunk](https://www.giac.org/paper/gcia/11501/detecting-penetration-testers-windows-network-splunk/152302)
 - [Medium - 2023 Selection of Cybersecurity Threat Reports](https://j-wennekers.medium.com/2023-a-selection-of-annual-cybersecurity-threat-reports-fd363cd2063a)
+- [CyberWarDog - Ready to Hunt, first show me your data!](https://cyberwardog.blogspot.com/2017/12/ready-to-hunt-first-show-me-your-data.html)
 
 ## Books
 - [Practical Threat Detection Engineering: A hands-on guide to planning, developing, and validating detection capabilities](https://www.amazon.com/Practical-Threat-Detection-Engineering-hands/dp/1801076715)
