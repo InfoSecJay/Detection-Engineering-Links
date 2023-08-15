@@ -32,6 +32,7 @@
 - [Cortex XDR Endpoint Data Collection](https://docs-cortex.paloaltonetworks.com/r/Cortex-XSIAM/Cortex-XSIAM-Administrator-Guide/Endpoint-Data-Collection)
 - [Olaf Hartong - Sysmon Modular](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml)
 - [SwiftOnSecurity - Sysmon-Config](https://github.com/SwiftOnSecurity)
+- [Dragos - Collection Management Framework](https://www.dragos.com/wp-content/uploads/CMF_For_ICS.pdf?hsCtaTracking=1b2b0c29-2196-4ebd-a68c-5099dea41ff6%7C27c19e1c-0374-490d-92f9-b9dcf071f9b5)
 
 ## Cheat Sheets
 - [Anatomy of a Sigma Rule](https://pbs.twimg.com/media/E6wIxr-WYAYoGO2?format=jpg&name=4096x4096)
@@ -39,7 +40,6 @@
 - [Nexttron - Web Proxy Cheat Sheet](https://www.nextron-systems.com/2020/07/24/web-proxy-event-analysis-cheat-sheet/)
 - [Malware Archaeology - Windows Event Logging Cheat Sheets](https://www.malwarearchaeology.com/cheat-sheets)
 - [SANS Security Posters](https://www.sans.org/posters/)
-
 
 ## Blogs
 - [The DFIR Report](https://thedfirreport.com/)
@@ -88,6 +88,7 @@
 - [SANS Gold Paper - Detecting Penetration Testers on a Windows Network with Splunk](https://www.giac.org/paper/gcia/11501/detecting-penetration-testers-windows-network-splunk/152302)
 - [Medium - 2023 Selection of Cybersecurity Threat Reports](https://j-wennekers.medium.com/2023-a-selection-of-annual-cybersecurity-threat-reports-fd363cd2063a)
 - [CyberWarDog - Ready to Hunt, first show me your data!](https://cyberwardog.blogspot.com/2017/12/ready-to-hunt-first-show-me-your-data.html)
+- [Capability Abstraction](https://posts.specterops.io/capability-abstraction-fbeaeeb26384)
 
 ## Books
 - [Practical Threat Detection Engineering: A hands-on guide to planning, developing, and validating detection capabilities](https://www.amazon.com/Practical-Threat-Detection-Engineering-hands/dp/1801076715)
