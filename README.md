@@ -8,6 +8,7 @@
 - [FaclonForceTeam](https://github.com/FalconForceTeam/FalconFriday)
 - [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules)
 - [Chronicle Detection Rules](https://github.com/chronicle/detection-rules)
+- [Panther Labs Rules](https://github.com/panther-labs/panther-analysis/tree/master/rules)
 - [Living Off The Living Off The Land](https://lolol.farm/)
 - [Logpoint Alert Rules](https://docs.logpoint.com/docs/alert-rules/en/latest/MITRE.html)
 - [IBM QRadar UBA Rules](https://www.ibm.com/docs/en/qradar-common?topic=app-rules-tuning-uba)
