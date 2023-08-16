@@ -7,10 +7,10 @@
 - [Splunk Research](https://research.splunk.com/)
 - [FaclonForceTeam](https://github.com/FalconForceTeam/FalconFriday)
 - [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules)
+- [Elastic Protections Artifact Rules](https://github.com/elastic/protections-artifacts/tree/main)
 - [Chronicle Detection Rules](https://github.com/chronicle/detection-rules)
 - [Panther Labs Rules](https://github.com/panther-labs/panther-analysis/tree/master/rules)
-
-## Other Vendor Detection Libraries
+- [MITRE Cyber Analytics Repository](https://car.mitre.org/)
 - [SOC Prime](https://socprime.com/)
 - [LogRhythm Threat Detection](https://docs.logrhythm.com/kbmodules/docs/threat-detection)
 - [Data Dog OOB Rules](https://docs.datadoghq.com/security/default_rules/#all)
@@ -18,12 +18,22 @@
 - [IBM QRadar UBA Rules](https://www.ibm.com/docs/en/qradar-common?topic=app-rules-tuning-uba)
 - [Exabeam Content Library](https://github.com/ExabeamLabs/Content-Doc)
 - [Cortex XDR Analytics Alert Library](https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR-Analytics-Alert-Reference)
+- [KQL Advanced Hunting Queries & Analytics Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)
 
 ## Detection Lists
 - [Living Off The Living Off The Land](https://lolol.farm/)
 - [PowerShell Dirty Word List](https://gist.github.com/nasbench/50cd0b64bedacabccecc9149c15228da)
 - [Unit 42 - Top Level Domains Cybercrime](https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/)
 - [Ransomware Notes](https://github.com/eshlomo1/Ransomware-NOTE/blob/main/ransomware-extension-list.txt)
+
+## Concepts and Frameworks
+- [Palantir - Alerting and Detection Strategies Framework](https://github.com/palantir/alerting-detection-strategy-framework)
+- [Detection Engineering Maturity Matrix](https://detectionengineering.io/)
+- [Detection Maturity Level (DML)](http://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html)
+- [David Bianco - Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
+- [Lockheed Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+- [Unifed Kill Chain](https://www.unifiedkillchain.com/)
+- [MaGMa Use Case Management Framework](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf)
 
 ## Data Sources
 - [MITRE ATT&CK Data Sources](https://attack.mitre.org/datasources/)
@@ -77,8 +87,12 @@
 - [YAML Tutorial: Everything You Need to Get Started in Minutes | Cloudbees Blog](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started)
 
 ## Incident Response Playbooks
+- [Cortex XSOAR Playbooks](https://xsoar.pan.dev/docs/playbooks/playbooks-overview)
+- [Incident Response Methodologies (IRM) 2022](https://github.com/certsocietegenerale/IRM/tree/main)
+- [PagerDuty Incident Response](https://response.pagerduty.com/)
 - [Microsoft Advanced Threat Analytics suspicious activity guide](https://learn.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide#malicious-data-protection-private-information-request)
 - [Unit 42 - Playbook Viewer](https://pan-unit42.github.io/playbook_viewer/?pb=maze-ransomware)
+
 
 ## Threat Intelligence
 - [Paralus CTI Resources](https://paralus.co/resources-2/resources/)
@@ -102,4 +116,5 @@
 - [Evading EDR](https://www.amazon.com/Evading-EDR-Comprehensive-Defeating-Detection-ebook/dp/B0BZH1RTVB)
 - [Intelligence-Driven Incident Response](https://www.amazon.com/Intelligence-Driven-Incident-Response-Rebekah-Brown-ebook/dp/B0C7Y9V2ZS)
 - [Practical Threat Intelligence and Data-Driven Threat Hunting: A hands-on guide to threat hunting with the ATT&CK™ Framework and open source tools](https://www.amazon.com/Practical-Threat-Hunting-setting-configuring-ebook/dp/B07T47QPCS)
+- [Logging and Log Management: The Authoritative Guide to Understanding the Concepts Surrounding Logging and Log Management](https://www.goodreads.com/book/show/14501544-logging-and-log-management)
 
