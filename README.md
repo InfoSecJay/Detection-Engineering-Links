@@ -34,6 +34,7 @@
 - [Olaf Hartong - Sysmon Modular](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml)
 - [SwiftOnSecurity - Sysmon-Config](https://github.com/SwiftOnSecurity)
 - [Dragos - Collection Management Framework](https://www.dragos.com/wp-content/uploads/CMF_For_ICS.pdf?hsCtaTracking=1b2b0c29-2196-4ebd-a68c-5099dea41ff6%7C27c19e1c-0374-490d-92f9-b9dcf071f9b5)
+- [EDR Telemetry](https://github.com/tsale/EDR-Telemetry)
 
 ## Cheat Sheets
 - [SANS Security Posters](https://www.sans.org/posters/)
