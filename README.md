@@ -11,6 +11,7 @@
 - [Panther Labs Rules](https://github.com/panther-labs/panther-analysis/tree/master/rules)
 
 ## Other Vendor Detection Libraries
+- [SOC Prime](https://socprime.com/)
 - [LogRhythm Threat Detection](https://docs.logrhythm.com/kbmodules/docs/threat-detection)
 - [Data Dog OOB Rules](https://docs.datadoghq.com/security/default_rules/#all)
 - [Logpoint Alert Rules](https://docs.logpoint.com/docs/alert-rules/en/latest/MITRE.html)
@@ -35,21 +36,21 @@
 - [Dragos - Collection Management Framework](https://www.dragos.com/wp-content/uploads/CMF_For_ICS.pdf?hsCtaTracking=1b2b0c29-2196-4ebd-a68c-5099dea41ff6%7C27c19e1c-0374-490d-92f9-b9dcf071f9b5)
 
 ## Cheat Sheets
+- [SANS Security Posters](https://www.sans.org/posters/)
 - [Anatomy of a Sigma Rule](https://pbs.twimg.com/media/E6wIxr-WYAYoGO2?format=jpg&name=4096x4096)
 - [Nextron - Antivirus Cheat Sheet](https://www.nextron-systems.com/2021/03/25/antivirus-event-analysis-cheat-sheet-v1-8/)
-- [Nexttron - Web Proxy Cheat Sheet](https://www.nextron-systems.com/2020/07/24/web-proxy-event-analysis-cheat-sheet/)
+- [Nextron - Web Proxy Cheat Sheet](https://www.nextron-systems.com/2020/07/24/web-proxy-event-analysis-cheat-sheet/)
 - [Malware Archaeology - Windows Event Logging Cheat Sheets](https://www.malwarearchaeology.com/cheat-sheets)
-- [SANS Security Posters](https://www.sans.org/posters/)
 
 ## Blogs
 - [The DFIR Report](https://thedfirreport.com/)
+- [Unit 42 | Palo Alto Networks](https://unit42.paloaltonetworks.com/)
 - [FalconForce](https://falconforce.nl/blogs/)
 - [Microsoft Detection and Response Team (DART)](https://www.microsoft.com/en-us/security/blog/topic/incident-response/?sort-by=newest-oldest&date=any)
 - [SpecterOps](https://posts.specterops.io/)
 - [Elastic Blog](https://www.elastic.co/security-labs/)
 - [CrowdStrike Blog](https://www.crowdstrike.com/blog/)
 - [Mandiant](https://www.mandiant.com/resources?f%5B0%5D=layout%3Aarticle_blog)
-- [Unit 42 | Palo Alto Networks](https://unit42.paloaltonetworks.com/)
 - [ReliaQuest Blog](https://www.reliaquest.com/blog/)
 - [BleepingComputer](https://www.bleepingcomputer.com/)
 
@@ -71,18 +72,22 @@
 - [Paul Jeremy - Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
 - [Purple Academy by Picus - Courses for Red, Blue, and Purple Teamers](https://academy.picussecurity.com/courses)
 - [Detection Engineering with Sigma](https://www.networkdefense.io/library/detection-engineering-with-sigma-58157/310172/path/)
-- [YAML Tutorial: Everything You Need to Get Started in Minutes | Cloudbees Blog](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started)
 - [YARA For Security Analytics ](https://www.networkdefense.io/library/yara-for-security-analysts-186781/519932/about/)
+- [YAML Tutorial: Everything You Need to Get Started in Minutes | Cloudbees Blog](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started)
 
-## Playbooks
+## Incident Response Playbooks
 - [Microsoft Advanced Threat Analytics suspicious activity guide](https://learn.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide#malicious-data-protection-private-information-request)
 - [Unit 42 - Playbook Viewer](https://pan-unit42.github.io/playbook_viewer/?pb=maze-ransomware)
 
+## Threat Intelligence
+- [Paralus CTI Resources](https://paralus.co/resources-2/resources/)
+
 ## Presentations
-- [Sigma Hall of Fame](https://www.slideshare.net/FlorianRoth2/sigma-hall-of-fame-eu-attck-user-workshop-october-2021)
+- [Sigma - Hall of Fame](https://www.slideshare.net/FlorianRoth2/sigma-hall-of-fame-eu-attck-user-workshop-october-2021)
 - [Sigma - Threat Hunting wiht Application Logs and Sigma](https://owasp.org/www-pdf-archive/GOD17-Sigma.pdf)
 
 ## Articles
+- [Splunk Risk Based Alerting](https://www.splunk.com/en_us/blog/security/risk-based-alerting-the-new-frontier-for-siem.html)
 - [Splunk - Active Directory Discovery Detection: Threat Research Release, September 2021](https://www.splunk.com/en_us/blog/security/active-directory-discovery-detection-threat-research-release-september-2021.html)
 - [Palo Alto - Network IPS Tuning Guide](https://www.paloaltonetworks.com/blog/2015/09/network-ips-tuning-guide/)
 - [SANS Gold Paper - Detecting Penetration Testers on a Windows Network with Splunk](https://www.giac.org/paper/gcia/11501/detecting-penetration-testers-windows-network-splunk/152302)
