@@ -21,6 +21,7 @@
 - [KQL Advanced Hunting Queries & Analytics Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)
 
 ## Detection Lists
+- [Strontic - The Encyclopedia of Executables](https://strontic.github.io/xcyclopedia/intro)
 - [Living Off The Living Off The Land](https://lolol.farm/)
 - [PowerShell Dirty Word List](https://gist.github.com/nasbench/50cd0b64bedacabccecc9149c15228da)
 - [Unit 42 - Top Level Domains Cybercrime](https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/)
@@ -85,6 +86,7 @@
 - [Detection Engineering with Sigma](https://www.networkdefense.io/library/detection-engineering-with-sigma-58157/310172/path/)
 - [YARA For Security Analytics ](https://www.networkdefense.io/library/yara-for-security-analysts-186781/519932/about/)
 - [YAML Tutorial: Everything You Need to Get Started in Minutes | Cloudbees Blog](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started)
+- [SpectreOps Adversary Tactics: PowerShell](https://github.com/SpecterOps/at-ps/tree/master)
 
 ## Incident Response Playbooks
 - [Cortex XSOAR Playbooks](https://xsoar.pan.dev/docs/playbooks/playbooks-overview)
